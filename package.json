@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.22.2",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-query": "^3.39.3",
+    "use-scroll-restoration": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
