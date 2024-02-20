@@ -1,7 +1,4 @@
-import React, { useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
-import { useRouter } from "next/router";
-import useBackButton from "../hooks/use-back-button";
 import usePreserveScroll from "../hooks/use-preserve-scroll";
 
 const List = () => {
